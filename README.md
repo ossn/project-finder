@@ -2,6 +2,14 @@ Project finder is a match making platform for hackathon attendees.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project started at HackIllinois2019. 
+## Contributors
+
+Diandry Rutayisire
+Cora Chan
+Sonia Rista
+Camden Shields
+
 ## Install
 
 Install the necessary npm packages

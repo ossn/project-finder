@@ -2,11 +2,15 @@ Project finder is a match making platform for hackathon attendees.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Install
 
+Install the necessary npm packages
+ `npm install`
+
+## Start the service
 In the project directory, you can run:
 
-### `npm start`
+ `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

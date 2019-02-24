@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Project started at HackIllinois2019. 
 ## Contributors
 
-Diandry Rutayisire
-Cora Chan
-Sonia Rista
+Diandry Rutayisire,
+Cora Chan,
+Sonia Rista,
 Camden Shields
 
 ## Install
